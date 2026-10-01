@@ -14,11 +14,9 @@ def selection_sort(vetor):
 vetor = [10, 3, 2, 8, 7, 4, 6, 5, 9, 1]   
 
 print("Vetor antes da ordenacao")
-for x in vetor: 
-    print(f"[{x}] ", end="")
+print(vetor)
 
 selection_sort(vetor) 
 
 print("\n\nVetor ordenado")
-for x in vetor:
-    print(f"[{x}] ", end="")
+print(vetor)
