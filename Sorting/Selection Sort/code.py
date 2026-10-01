@@ -17,7 +17,7 @@ print("Vetor antes da ordenacao")
 for x in vetor: 
     print(f"[{x}] ", end="")
 
-bubble_sort(vetor) 
+selection_sort(vetor) 
 
 print("\n\nVetor ordenado")
 for x in vetor:
