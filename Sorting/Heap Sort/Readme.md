@@ -88,3 +88,7 @@ Na construção, `heapify` é chamado de baixo para cima (de `n/2-1` até `0`), 
 
 ### Desvantagens
 - Não é estável: as trocas a longa distância podem inverter a ordem de elementos iguais.
+
+## Referência
+
+Baseado na explicação e nos exemplos de implementação do artigo [Heap Sort — GeeksforGeeks](https://www.geeksforgeeks.org/dsa/heap-sort/).
